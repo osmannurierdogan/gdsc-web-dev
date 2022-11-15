@@ -5,19 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>First HTML Page</title>
-    <!-- <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Poor+Story&display=swap"
       rel="stylesheet"
-    /> -->
+    />
     <style>
       @import url("https://fonts.googleapis.com/css2?family=Calligraffitti&family=Kolker+Brush&display=swap");
       img {
         border: 10px dashed purple;
       }
       h1 {
-        color: red;
+        color: rgb(255, 0, 0);
+        font-family: "Poor Story", cursive;
       }
       h2 {
         color: rgb(19, 176, 134);
@@ -37,8 +38,8 @@
         font-family: "Calligraffitti", cursive;
       }
       ul {
+        /*list-style: url(./images/gdsc-logo.png);*/
         list-style: none;
-        margin: 0;
         padding: 0;
       }
       li:nth-child(even) {
@@ -46,12 +47,22 @@
         padding: 10px 5px;
       }
       li:nth-child(odd) {
-        background-color: rgb(30, 255, 0);
-        padding: 5px 10px;
+        background-color: rgb(87, 159, 77);
+        /* padding: 50px 100px; */
+        /* padding-top: 50px;
+        padding-right: 650px;
+        padding-bottom: 100px;
+        padding-left: 200px; */
+        padding: 50px 50px 100px 200px;
+        margin-top: 50px;
+        margin-right: 650px;
+        margin-bottom: 100px;
+        margin-left: 200px;
+        padding: 20px 50px;
+        padding: 600px;
+        text-align: center;
       }
-      a {
-        color: red;
-      }
+
       a:link {
         background-color: magenta;
         color: black;
@@ -74,7 +85,7 @@
         background-image: url(./images/gdsc-logo.jpg);
         background-position: center;
         object-fit: cover;
-        /* background-repeat: no-repeat; */
+        background-repeat: no-repeat;
       }
     </style>
   </head>
