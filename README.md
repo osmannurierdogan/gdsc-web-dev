@@ -8,7 +8,7 @@
 - Live Server (Visual Studio Code Extension) [https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer]
 - IntelliCode (Visual Studio Code Extension) [https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode]
 - Frontend Mentor [https://frontendmentor.io]
-- Derslerin kayıtlarına şu linkten ulaşabilirsiniz: [https://google.com]
+- Derslerin kayıtlarına şu linkten ulaşabilirsiniz: [https://youtube.com/playlist?list=PLUvA2TqKhiWaPd2-2xlmFhKWLqy2u32XF]
 
 ### Nasıl Çalıştırılır?
 
